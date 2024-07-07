@@ -1,0 +1,10 @@
+Hello, I hope you enjoyed browsing through the files. The running order should be fairly straightforward. 
+Here is an unorganised "wish list" of things I would like to work on to make this project (even) better.
+
+1) Determining the impacts of grid connection costs and how these vary regionally 
+2) Expand the data sources to include IEA (?) and expand the geographical reach of this project
+3) Include a greater number of technologies and fuels, not only intermittent renewables 
+4) Web/Shiny interface??
+
+  
+All additional comments/suggestions/critiques welcome! Comment on the GitHub or email me. 
